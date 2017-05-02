@@ -1,6 +1,8 @@
 Auth Microservice
 ====
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/retrohacker/ms-auth.svg)](https://greenkeeper.io/)
+
 A simple microservice that handles all authentication
 
 # Structure
